@@ -1,0 +1,71 @@
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.Start.resources
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.Properties.Resources.resources
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.GenerateResource.Cache
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe.config
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\LogbookNurkowy.pdb
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.exe
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.pdb
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\dzwieki\nurkowanie_przyciete.wav
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.Logbook.resources
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\MySql.Data.dll
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\NAudio.dll
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\NAudio.xml
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\bin\Debug\dzwieki\przycisk.wav
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.Historia.resources
+C:\Users\hp\source\repos\LogbookNurkowy\LogbookNurkowy\obj\Debug\LogbookNurkowy.Autor.resources
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\dzwieki\nurkowanie_przyciete.wav
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\dzwieki\przycisk.wav
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe.config
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.pdb
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\MySql.Data.dll
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\NAudio.dll
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\NAudio.xml
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csprojResolveAssemblyReference.cache
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Autor.resources
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Historia.resources
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Logbook.resources
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Start.resources
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Properties.Resources.resources
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.GenerateResource.Cache
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.exe
+C:\Users\pkhalladin\Dysk Google\hubert.struminski@gmail.com\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.pdb
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\dzwieki\nurkowanie_przyciete.wav
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\dzwieki\przycisk.wav
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe.config
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.pdb
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\NAudio.dll
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\NAudio.xml
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Autor.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Historia.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Logbook.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Start.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Properties.Resources.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.exe
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.pdb
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\dzwieki\nurkowanie_przyciete.wav
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\dzwieki\przycisk.wav
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe.config
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.exe
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\LogbookNurkowy.pdb
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\NAudio.dll
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\bin\Debug\NAudio.xml
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Autor.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Historia.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Logbook.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Start.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.Properties.Resources.resources
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.exe
+C:\Users\hp\Desktop\Logbook nurkowy - końcowy projekt\Logbook nurkowy - końcowy projekt\LogbookNurkowy_Hubert\LogbookNurkowy\obj\Debug\LogbookNurkowy.pdb
